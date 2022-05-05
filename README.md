@@ -19,7 +19,7 @@ This is a solution to the [Single Price Grid Component Challenge on Frontend Men
 
 ### Links
 
-- Solution URL: [Single Price Grid](https://www.frontendmentor.io/solutions/stats-preview-card-component-H1CdEr0r5)
+- Solution URL: [Single Price Grid](https://www.frontendmentor.io/solutions/single-price-grid-component-S10Xx3gI9)
 
 ## My process
 
