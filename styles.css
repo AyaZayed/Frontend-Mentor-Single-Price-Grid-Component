@@ -1,0 +1,42 @@
+:root {
+  --Cyan: hsl(179, 62%, 43%);
+  --Bright-Yellow: hsl(71, 73%, 54%);
+  --Light-Gray: hsl(204, 43%, 93%);
+  --Grayish-Blue: hsl(218, 22%, 67%);
+}
+
+body {
+  font-size: 16px;
+  font-family: "Karla", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.card {
+  background-color: #fff;
+  margin: 6rem;
+}
+
+.subscription {
+  background-color: var(--Cyan);
+}
+
+.why-us {
+  background-color: hsl(179deg 47% 52%);
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: var(--Cyan);
+  text-decoration: none;
+}
+
+.attribution a:hover {
+  text-decoration: underline;
+}
