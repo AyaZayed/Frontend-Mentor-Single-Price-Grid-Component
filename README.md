@@ -28,6 +28,7 @@ This is a solution to the [Single Price Grid Component Challenge on Frontend Men
 - Semantic HTML5 markup
 - CSS custom properties
 - Google Fonts
+- Normalize CSS
 
 ## Author
 
